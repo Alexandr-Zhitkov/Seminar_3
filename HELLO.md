@@ -39,4 +39,14 @@ Git add
 
 ![Картинка](https://rare-gallery.com/uploads/posts/719890-Dogs-Retriever.jpg)
 
-[работа с markdown]()
+
+
+[работа с markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+
+## Работа со списками
+
+1. Один 
+2. Два
+
+*
++
