@@ -1,5 +1,10 @@
 # Инструкция для работы с Git и удалёнными репозиториями
 
+Для начала подготовим ссылки для скачивания
+
+[Git](https://git-scm.com/downloads)
+
+[visualStudio](https://code.visualstudio.com/Download)
 ## *Что такое Git?*
 
 ![Картинка](https://fuzeservers.ru/wp-content/uploads/6/b/8/6b83cc69c0c2a6c442bfbb1e29022be8.png)
@@ -16,6 +21,8 @@
 
 
 ## Создание коммитов
+
+[Полезные ссылки от преподавателя](https://habr.com/ru/company/ruvds/blog/599929/)
 
 Git add
 Для добавления измений в коммит используется команда *git add*. Чтобы использовать команду *git add* напишите *git add <имя файла>*
